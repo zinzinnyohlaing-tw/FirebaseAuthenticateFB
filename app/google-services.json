@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "141297430885",
+    "firebase_url": "https://fir-authenticatefb-57c22.firebaseio.com",
+    "project_id": "fir-authenticatefb-57c22",
+    "storage_bucket": "fir-authenticatefb-57c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141297430885:android:2c015fc5ea7bd9e6b3f18c",
+        "android_client_info": {
+          "package_name": "ttes.first.firebaseauthenticatefb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141297430885-1ln2mb0429r525c3nt5puf7v5gdouk5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ttes.first.firebaseauthenticatefb",
+            "certificate_hash": "546462607e14ad8b69f48fe6cfb075bf1d122209"
+          }
+        },
+        {
+          "client_id": "141297430885-mq9bqhsjo13df2k7mmu3cav0pq14fbf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4CCoMWjv-WhOcepJVk7a8BJby6ss7PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141297430885-mq9bqhsjo13df2k7mmu3cav0pq14fbf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
